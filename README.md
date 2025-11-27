@@ -1,6 +1,3 @@
-Here is a professional, refined version of your README file, formatted using standard Markdown conventions suitable for GitHub or a Kaggle Notebook description.
-
-***
 
 # AI-Powered News Verifier
 
